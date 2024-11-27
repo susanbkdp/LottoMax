@@ -1,0 +1,7 @@
+﻿  LottoMax.cpp
+C:\Users\sBarkhordarpour\source\repos\LottoMax\LottoMax\LottoMax.cpp(131,25): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sBarkhordarpour\source\repos\LottoMax\LottoMax\LottoMax.cpp(154,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\sBarkhordarpour\source\repos\LottoMax\LottoMax\LottoMax.cpp(252,21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  LottoMax.vcxproj -> C:\Users\sBarkhordarpour\source\repos\LottoMax\LottoMax\x64\Debug\LottoMax.exe
